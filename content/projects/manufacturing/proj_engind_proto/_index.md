@@ -53,7 +53,7 @@ precise machining of the new blade holder to accommodate the existing spring-loa
 
 **objective:** to revise a previous fixture to eliminate bending during heat-staking
 
-{{< figure src="/coop_pic77.jpg" title="new fixture offering heat-staking support" width="70%" >}}
+{{< figure src="/coop_pic_7.png" title="new fixture offering heat-staking support" width="70%" >}}
 
 Tiny mounting clips were becoming warped after heat-staking threads into them. 
 My supervisor, not wanting to revise the fixture too much, suggested that I come up with something that slides into the part and supports it during finishing and slides back out to release.
