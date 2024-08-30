@@ -1,0 +1,47 @@
+baseURL: "https://exampleEricMartin.org/"
+title: "Eric's Portfolio"
+paginate: 10
+theme: "PaperMod"
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+menu:
+  main:
+    - name: About
+      url: /about/
+      weight: 3
+    - name: Projects
+      url: /projects/
+      weight: 1
+    - name: Experience
+      url: /experience/
+      weight: 2
+
+
+params:
+  description: "I am a mechanical engineer passionate about design and sustainability."
+  author: ""
+  DateFormat: "January 2006"
+  profileMode:
+    enabled: true
+    title: "Eric Martin"
+    subtitle: "**I'm a driven mechanical engineer passionate about design, energy, and sustainability.** 
+		\n
+		----------------------------------------------------------------------------------------"
+    imageUrl: "headshot_uw.png"
+    imageWidth: 160
+    imageHeight: 200
+    buttons:
+      - name: Resume
+        url: resume_general_noAddy.pdf
+      - name: CV
+        url: cv_general_noAddy.pdf
+      - name: Contact
+        url: /contact/
+  socialIcons:
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/eric-james-martin
+    - name: GitHub
+      url: https://github.com/airwickmartin
+
