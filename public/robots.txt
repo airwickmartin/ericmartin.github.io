@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ericmartin.onrender.com/sitemap.xml
