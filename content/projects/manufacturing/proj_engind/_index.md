@@ -11,7 +11,7 @@ summary: "Engineering Industries Co-op"
 
 **objective:** to design and fabricate mounting for detachable conveyer belt chutes
 
-{{< figure src="/coop_pic11.jpg" title="final mounted conveyer chute, previous solution on the left" width="80%" >}}
+{{< figure src="/coop_pic_1.png" title="final mounted conveyer chute, previous solution on the left" width="80%" >}}
 
 The challenge of this project was to make the mounting detachable, as not every job required the chutes. 
 I came to a solution that would accomplish this while conveniently "storing" the mounting at the conveyor,
