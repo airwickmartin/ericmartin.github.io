@@ -34,7 +34,7 @@ params:
     imageHeight: 200
     buttons:
       - name: Resume
-        url: resume_general_noAddy.pdf
+        url: resume_programming_noAddy.pdf
       - name: CV
         url: cv_general_noAddy.pdf
       - name: Contact

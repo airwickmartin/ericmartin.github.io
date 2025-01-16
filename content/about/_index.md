@@ -4,7 +4,6 @@ description: "I was able to put together this static website for free in just a 
 \n equipped only with a university Python course and a high school Java class."
 draft: false
 ---
-I'm *seriously* not into software, but I do love a challenge.
 
 I couldn't have done it without the help of Hugo (builder) and Render (hosting).
 
